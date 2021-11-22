@@ -1,5 +1,5 @@
 # SQL-ODEV2
-Between, In Operatörü
+Between, In Operatörü (Postgre SQL - pgAdmin tablosuna göre yapılmıştır.)
 ## 
 1) SELECT*FROM film
    WHERE replacement_cost BETWEEN 12.99 AND 17;
